@@ -1,3 +1,4 @@
+
 # Minesweeper Game
 
 A simple command-line implementation of the classic Minesweeper game written in C. The goal is to uncover all cells on an 8x8 grid without hitting any mines.
@@ -18,13 +19,5 @@ INSTRUCTIONS
  2. If you reveal a number or zero, continue revealing cells.
  3. If you reveal a mine, the game is over.
 
-Enter coordinates (row and column) to reveal (0-7): 2 3
-Current Grid:
-* * * * * * * *
-* * * * * * * *
-* * 1 * * * * *
-* * * * * * * *
-* * * * * * * *
-* * * * * * * *
-* * * * * * * *
-* * * * * * * *
+# Contact
+E-Mail - Pallavinegi2503@gmail.com
