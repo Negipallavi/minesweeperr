@@ -1,4 +1,6 @@
 
+![ for image ](https://th.bing.com/th?q=Minesweeper+Mine+Icon&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=strict&t=1&mw=247)
+
 # Minesweeper Game
 
 A simple command-line implementation of the classic Minesweeper game written in C. The goal is to uncover all cells on an 8x8 grid without hitting any mines.
