@@ -12,3 +12,19 @@ In this Minesweeper game, players interact with an 8x8 grid containing 10 random
 - 10 randomly placed mines
 - Hint numbers indicating adjacent mines
 - Recursive cell revealing for zeros
+
+INSTRUCTIONS
+ 1. Enter the coordinates. r c
+ 2. If you reveal a number or zero, continue revealing cells.
+ 3. If you reveal a mine, the game is over.
+
+Enter coordinates (row and column) to reveal (0-7): 2 3
+Current Grid:
+* * * * * * * *
+* * * * * * * *
+* * 1 * * * * *
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
