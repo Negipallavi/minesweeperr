@@ -22,8 +22,8 @@ INSTRUCTIONS
  3. If you reveal a mine, the game is over.
 
 # DOWNLOAD
+- <a href="[https://raw.githubusercontent.com/Negipallavi/minesweeperr/main/proj.c](https://github.com/Negipallavi/minesweeperr/releases/download/trial/minesweeper.exe)">Click here to download</a>
 
-- <a href="https://raw.githubusercontent.com/Negipallavi/minesweeperr/main/proj.c">CClich here to download</a>
 # Contact
-- E-Mail - Pallavinegi2503@gmail.com
-- Linkedln - https://www.linkedin.com/in/pallavi-negi-25p
+ - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="linkedin logo"  href="https://www.linkedin.com/in/pallavi-negi-25p">
+ - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="27" alt="gmail logo"  href="pallavinegi2503@gmail.com"/>
