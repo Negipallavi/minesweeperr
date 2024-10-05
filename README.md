@@ -21,6 +21,9 @@ INSTRUCTIONS
  2. If you reveal a number or zero, continue revealing cells.
  3. If you reveal a mine, the game is over.
 
+# DOWNLOAD
+
+- <a href="https://raw.githubusercontent.com/Negipallavi/minesweeperr/main/proj.c">CClich here to download</a>
 # Contact
 - E-Mail - Pallavinegi2503@gmail.com
 - Linkedln - https://www.linkedin.com/in/pallavi-negi-25p
