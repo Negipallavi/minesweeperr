@@ -25,5 +25,5 @@ INSTRUCTIONS
 - <a href="[https://raw.githubusercontent.com/Negipallavi/minesweeperr/main/proj.c](https://github.com/Negipallavi/minesweeperr/releases/download/trial/minesweeper.exe)">Click here to download</a>
 
 # Contact
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="linkedin logo"  href="https://www.linkedin.com/in/pallavi-negi-25p">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="27" alt="gmail logo"  href="pallavinegi2503@gmail.com"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="linkedin logo"> <a href="https://www.linkedin.com/in/pallavi-negi-25p"></a>
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="27" alt="gmail logo" ><a href="pallavinegi2503@gmail.com"></a>
