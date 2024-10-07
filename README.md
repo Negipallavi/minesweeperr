@@ -32,9 +32,10 @@ INSTRUCTIONS
 - **Ready**: The game should  be opened in your terminal.
 
 # Credit
--  <img width="40%" alt="geeekdude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geeekdude&show_icons=true&hide_border=true&theme=algolia"/>
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geeekdude&layout=compact&langs_count=8&theme=algolia"/>
--
+- 
+[![Linkedin: Prateek Kumar](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/geekdude)](https://linkedin.com/in/geekdude)
+[![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)](https://github.com/geeekdude)
+![](https://komarev.com/ghpvc/?username=geeekdude&color=blueviolet)
 
 #Developer
 - Pallavi Negi..
