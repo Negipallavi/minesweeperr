@@ -44,8 +44,6 @@ INSTRUCTIONS
 [![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)](https://github.com/geeekdude)
 
 - [![Linkedin: Kunal Upadhyay](https://img.shields.io/badge/-Kunal_Upadhyay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kunalupadhyayofficial)](linkedin.com/in/kunalupadhyayofficial)
-[![GitHub: Kunal Upadhyay](https://img.shields.io/github/followers/Kunal_Upadhyay?label=follow&style=social)](https://github.com/Kunal-Upadhyay)
-[![Kunal Upadhyay GitHub](https://img.shields.io/github/Kunal_Upadhyay-GitHub-white?label=follow&style=social)](https://github.com/Kunal-Upadhyay)
 
 <br>
 
