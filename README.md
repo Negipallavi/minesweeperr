@@ -32,11 +32,11 @@ INSTRUCTIONS
 - **Ready**: The game should  be opened in your terminal.
 
 # Credit
-- 
-[![Linkedin: Prateek Kumar](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/geekdude)](https://linkedin.com/in/geekdude)
-[![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)]
 
-#Developer
+- [![Linkedin: Prateek Kumar](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/geekdude)](https://linkedin.com/in/geekdude)
+[![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)](https://github.com/geeekdude)
+
+# Developer
 - Pallavi Negi..
 
 # Contact
