@@ -34,7 +34,7 @@ INSTRUCTIONS
 # Credit
 - 
 [![Linkedin: Prateek Kumar](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/geekdude)](https://linkedin.com/in/geekdude)
-[![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)](https://github.com/geeekdude)
+[![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)]
 
 #Developer
 - Pallavi Negi..
