@@ -30,5 +30,5 @@ INSTRUCTIONS
 - <a href="https://github.com/Negipallavi/minesweeperr/releases/tag/trial">Click here</a>
 
 # Contact
-<a href="https://www.linkedin.com/in/pallavi-negi-25p">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="linkedin logo"> </a>
- <a href="pallavinegi2503@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="27" alt="gmail logo" ><a href="pallavinegi2503@gmail.com"></a>
+<a href="https://www.linkedin.com/in/pallavi-negi-25p"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="linkedin logo"> </a>
+ <a href="https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="27" alt="gmail logo" ><a href="pallavinegi2503@gmail.com"></a>
